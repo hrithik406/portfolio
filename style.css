@@ -271,8 +271,8 @@ body{
 .img{
     position: absolute;
     top: 0;
-    right: 150px;
-    width: 600px;
+    right: 65px;
+    width: 700px;
     height: 100%;
     border: 2px transparent;
     transition: 3s;
