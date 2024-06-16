@@ -54,6 +54,7 @@ body{
     margin-left: 35px;
     transition: .3s;
 }
+
 .navbar a:hover,
 .navbar a.active {
     color: #00afb0;
@@ -195,7 +196,7 @@ body{
 }
 
 .btn-box a:nth-child(1):before{
-    content: '';
+    content: 'Hroith';
     position: absolute;
     top: 0;
     left: 0;
